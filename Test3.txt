@@ -1,0 +1,1 @@
+Test3.txt is a new file created to test, if the file is added to the new Branch1 or not
